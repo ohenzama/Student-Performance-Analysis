@@ -6,6 +6,7 @@
 
 <h2>Skills Highlighted</h2>
 - <b>Inferential statistics (t-tests and ANOVA) </b>
+<br />
 - <b>Data Visualization </b>
 
 
