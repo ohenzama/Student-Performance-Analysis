@@ -57,6 +57,8 @@
 
 <img width="936" height="287" alt="Screenshot 2026-04-16 at 5 49 17 PM" src="https://github.com/user-attachments/assets/0678e006-70ee-4e94-9a6b-e85deb7eb41d" />
 
+Explored final grade segmented by various numerical student behaviors, Min-Max standardized for comparison. A few notable observations is how final grade letter decreased with study hours, and how stress level increased with decresing final grade letter. 
+
 <img width="749" height="452" alt="Screenshot 2026-04-16 at 5 49 40 PM" src="https://github.com/user-attachments/assets/17899060-7642-4397-8d95-7f34db9121bf" />
 
 We explored the correlation between final grade letter and exam scores per age, Min-Max Standardizing the score in order to compare them in a line graph. 
