@@ -2,7 +2,7 @@
 
 
 <h2>Tools Used</h2>
-- <b>Excel:</b> Data Cleaning, Exploratory Data Analysis, Inferential statistics (t-tests and ANOVA)
+<b>Excel:</b> Data Cleaning, Exploratory Data Analysis, Inferential statistics (t-tests and ANOVA)
 
 <h2>Dataset and Description</h2>
 
