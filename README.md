@@ -35,11 +35,11 @@
 
 
 <h2>Data Cleaning and Pre-Processing</h2>
--Removed NA values
+- Removed NA values
 
--Removed duplicate values
+- Removed duplicate values
 
--Created a boolean column titled **College Age?** which returned 1 for students within college age and 0 otherwise
+- Created a boolean column titled **College Age?** which returned 1 for students within college age and 0 otherwise
 
 - Added ID column
   
