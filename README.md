@@ -35,6 +35,7 @@
 
 
 <h2>Data Cleaning and Pre-Processing</h2>
+
 - Removed NA values
 
 - Removed duplicate values
