@@ -20,11 +20,11 @@
 <br />
 <b>Key Features: </b>
 
-StudyHours – Number of study hours per week.
-Attendance – Percentage of classes attended.
-Resources – Availability and use of academic resources (e.g., library, notes).
-Extracurricular – Participation in extracurricular activities (Yes/No).
-Motivation – Self-reported motivation level (numeric scale).
+- StudyHours – Number of study hours per week.
+- Attendance – Percentage of classes attended.
+- Resources – Availability and use of academic resources (e.g., library, notes).
+- Extracurricular – Participation in extracurricular activities (Yes/No).
+- Motivation – Self-reported motivation level (numeric scale).
 Internet – Access to the internet for study purposes (Yes/No).
 Gender – Student’s gender (Male/Female).
 Age – Age of student (18–30 years).
