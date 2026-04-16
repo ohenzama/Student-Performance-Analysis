@@ -36,9 +36,13 @@
 
 <h2>Data Cleaning and Pre-Processing</h2>
 -Removed NA values
+
 -Removed duplicate values
+
 -Created a boolean column titled **College Age?** which returned 1 for students within college age and 0 otherwise
+
 - Added ID column
+  
 - Created pivot tables that, for each level of each categorical variable, computed average final grade. Then, for each categorical variable, the difference of average final grades between each level was computed. In order to reduce the number of statistical tests conducted, chose to only do tests on the top 5 variables that exhibited the greatest average difference within their levels. These variables turned out to be: **Learning Style, Discussions, Internet, Gender,** and **Edutech**.
 
 <h2>Exploratory Data Analysis</h2>
