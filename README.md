@@ -11,9 +11,13 @@
 
 
 <h2>Dataset and Description</h2>
+
 <b>Source: </b> 
+
 <b>Size: </b> [12470, 19]
+
 <b>Description:</b> Two real datasets were merged and anonymized to create this dataset. Features include a number of student characteristics that might impact a student's academic perfomance. Each row represents a student. 
+
 <b>Goal:</b> Determine which features hold a significant impact on the student's academic performance. 
 
 <br />
