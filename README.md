@@ -25,17 +25,17 @@
 - Resources – Availability and use of academic resources (e.g., library, notes).
 - Extracurricular – Participation in extracurricular activities (Yes/No).
 - Motivation – Self-reported motivation level (numeric scale).
-Internet – Access to the internet for study purposes (Yes/No).
-Gender – Student’s gender (Male/Female).
-Age – Age of student (18–30 years).
-LearningStyle – Preferred learning style (e.g., Visual, Auditory, Kinesthetic, Reading/Writing).
-OnlineCourses – Participation in online courses (Yes/No).
-Discussions – Boolean. Whether or not a student engages in study group discussions or forums.
-AssignmentCompletion – Rate of completing assignments on time (numeric scale).
-ExamScore – Score obtained in the main exam.
-EduTech – Usage of educational technology tools/platforms.
-StressLevel – Self-reported stress level (numeric scale).
-FinalGrade – Final course grade (target variable for prediction).
+- Internet – Access to the internet for study purposes (Yes/No).
+- Gender – Student’s gender (Male/Female).
+- Age – Age of student (18–30 years).
+- LearningStyle – Preferred learning style (e.g., Visual, Auditory, Kinesthetic, Reading/Writing).
+- OnlineCourses – Participation in online courses (Yes/No).
+- Discussions – Boolean. Whether or not a student engages in study group discussions or forums.
+- AssignmentCompletion – Rate of completing assignments on time (numeric scale).
+- ExamScore – Score obtained in the main exam.
+- EduTech – Usage of educational technology tools/platforms.
+- StressLevel – Self-reported stress level (numeric scale).
+- FinalGrade – Final course grade (target variable for prediction).
 
 <br />
 <br />
