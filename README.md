@@ -39,7 +39,7 @@
 - ExamScore – Score obtained in the main exam.
 - EduTech – Usage of educational technology tools/platforms.
 - StressLevel – Self-reported stress level (numeric scale).
-- FinalGrade – Final course grade (target variable for prediction).
+- FinalGrade – Final course grade (target variable for prediction. 0=A, 1=B, 2=C, 3=D).
 
 <br />
 <br />
@@ -49,13 +49,19 @@
 -Removed NA values
 -Removed duplicate values
 -Created a boolean column titled **College Age?** which returned 1 for students within college age and 0 otherwise
+- Added ID column
 - Created pivot tables that, for each level of each categorical variable, computed average final grade. Then, for each categorical variable, the difference of average final grades between each level was computed. In order to reduce the number of statistical tests conducted, chose to only do tests on the top 5 variables that exhibited the greatest average difference within their levels. These variables turned out to be: **Learning Style, Discussions, Internet, Gender,** and **Edutech**.
 
 <h2>Exploratory Data Analysis</h2>
 
+
 <img width="936" height="287" alt="Screenshot 2026-04-16 at 5 49 17 PM" src="https://github.com/user-attachments/assets/0678e006-70ee-4e94-9a6b-e85deb7eb41d" />
 
 <img width="749" height="452" alt="Screenshot 2026-04-16 at 5 49 40 PM" src="https://github.com/user-attachments/assets/17899060-7642-4397-8d95-7f34db9121bf" />
+
+We explored the correlation between final grade letter and exam scores per age, Min-Max Standardizing the score in order to compare them in a line graph. 
+
+We noticed that there’s a related trend between exam score and final grades per age group, as usually, they share either positive and negative trends per age group, with the exception of age 26.
 
 
 <h2>Statistical Tests</h2>
