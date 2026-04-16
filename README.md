@@ -53,12 +53,22 @@
 
 <h2>Exploratory Data Analysis</h2>
 
+<img width="936" height="287" alt="Screenshot 2026-04-16 at 5 49 17 PM" src="https://github.com/user-attachments/assets/0678e006-70ee-4e94-9a6b-e85deb7eb41d" />
+
+<img width="749" height="452" alt="Screenshot 2026-04-16 at 5 49 40 PM" src="https://github.com/user-attachments/assets/17899060-7642-4397-8d95-7f34db9121bf" />
+
 
 <h2>Statistical Tests</h2>
-Performed two-sided two-sample t-tests on the variables **Learning Style, Discussions, Internet, Gender,** and **Edutech** to test if there existed a significant difference in mean final grade. The only variable where the null hypothesis was rejected was the **Discussions** variable *(p < 9.32796580121045E-06)*
+
+<img width="767" height="407" alt="Screenshot 2026-04-16 at 5 48 31 PM" src="https://github.com/user-attachments/assets/b7318033-1703-4c7a-b5b8-f0d963a4e0e8" />
+
+Performed one ANOVA and 4 two-sided two-sample t-tests on the variables **Learning Style, Discussions, Internet, Gender,** and **Edutech** to test if there existed a significant difference in mean final grade. The only variable where the null hypothesis was rejected was the **Discussions** variable *(p = 9.32796580121045E-06)*
 
 <h2>Results and Insights</h2>
-The tests returned with only one significant group, with a p value of so and so. The others were not significant, with p values of so and so. So we conclude that the other groups aren't that significant in impacting test scores, and we should double down / focus on the significant feature 
+The tests returned with only one significant group, with a p value of 9.32796580121045E-06.
+The others were not significant, meaning we didn't have enough evidence to reject the hypothesis that the mean final grades score within their respective levels were different. Thus, the test suggests that final exam scores don't significantly differ among students with different learning styles, genders, internet access, and educational technology preferences. However, whether or not a student engages in discussion is shown to have an impact on final exam scores. Thus, **one possible solution to improving final exam scores among students is to mandate productive study groups or discussions among the students.**
+
+Note: We have limited insight on the overall relevance of these results, as these results might be due to the particular subject of the final exams, like English, which the scores were recorded from. The dataset source and description provides no information on the school subject(s) the scores were derived from. 
 
 
 
