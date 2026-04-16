@@ -14,9 +14,7 @@
 
 <b>Goal:</b> Determine which features hold a significant impact on the student's academic performance. 
 
-<br />
-<br />
-<b>Key Features: </b>
+<b>Features: </b>
 
 - StudyHours – Number of study hours per week.
 - Attendance – Percentage of classes attended.
@@ -34,9 +32,6 @@
 - EduTech – Usage of educational technology tools/platforms.
 - StressLevel – Self-reported stress level (numeric scale).
 - FinalGrade – Final course grade (target variable for prediction. 0=A, 1=B, 2=C, 3=D).
-
-<br />
-<br />
 
 
 <h2>Data Cleaning and Pre-Processing</h2>
